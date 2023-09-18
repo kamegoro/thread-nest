@@ -4,4 +4,5 @@ public
 build
 *.config.js
 styleling.config.js
+postcss.config.js
 next-env.d.ts
