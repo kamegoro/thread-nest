@@ -1,0 +1,13 @@
+.btn {
+  border-color: black;
+  box-shadow: 0 4px black;
+
+  @apply focus:outline-none w-max py-2 px-4 border-2 rounded-xl;
+}
+
+.circleBtn {
+  border-color: black;
+  box-shadow: 0 2px black;
+
+  @apply focus:outline-none p-2 border-2 rounded-full;
+}
